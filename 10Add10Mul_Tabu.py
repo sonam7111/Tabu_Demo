@@ -3,7 +3,7 @@ import random
 import matplotlib.pyplot as plt
 
 def generate_unique_design_costs(max_adder, max_multiplier):
-    """Generates a dictionary of unique resource configurations and costs."""
+    "Generates a dictionary of unique resource configurations and costs."
     costs = set()
     design_costs = {}
     config_number = 1  # Initialize a counter for numbering
