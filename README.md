@@ -1,2 +1,2 @@
 # Tabu_Demo
-Basic version of Tabu Search Algorithm Implementation. 
+<h5>Basic version of Tabu Search Algorithm Implementation.</h5> 
